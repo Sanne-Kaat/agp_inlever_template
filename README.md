@@ -1,11 +1,11 @@
-## [titel van jullie game]
-Project team:[jullie namen]
+## The fate of Babylon
+Project team:Bjorn Oudkerk, Bob Hoogeboom, Daan Kikkert, Eva van Kessel, Mila Verwer, Sanne Kaat, Miles Schalkwijk
 
 Platform:
-[jullie platfom]
+Unity
 
 ### Korte omschrijving van de game
-...
+Onze game is een rougelike waarin je zo snel mogelijk met een tijdlimiet de top van de toren moet beklimmen. Ons spel bestaat uit een buitengedeelte met platforming en een binnengedeelte wat meer combat gericht is. Mocht het zo zijn dat je niet optijd het eind van het level behaald, dan stort de toren in en heb je het spel verloren. Voor de artstyle hebben wij ervoor gekozen om de stijl uit de vroeg-christelijke tijd na te maken, gezien de toren van Babel oorspronkelijk een bijbels verhaal is.
 
 ---
 #### Producten Werkproces 1
@@ -36,12 +36,12 @@ Platform:
 | Asset planning (pdf)                  | [AssetPlanning]
 |<img width=500/>|<img width=300/>|
 
-   [Backlog]: <https://trello.com/b/hik72z4q/mythe-2019-voorbeeld-trello>
-   [Logboek]: <https://github.com/BerendWeij/agp_inlever_template/blob/master/producten/logboek.pdf>
-   [GameDesignDoc]: <https://github.com/BerendWeij/agp_inlever_template/blob/master/producten/GameDesignDoc.pdf>
-   [RetrospectiveVerslagen]: <https://github.com/BerendWeij/agp_inlever_template/blob/master/producten/RetrospectiveVerslagen.pdf>
-   [ReviewVerslagen]: <https://github.com/BerendWeij/agp_inlever_template/blob/master/producten/ReviewVerslagen.pdf>
-   [Prototype]: <https://www.mijnmytheprototype.nl>
-   [Folder op teams]: <https://www.linknaarmijnfolderopteams.nl>
-   [AssetPlanning]: <https://github.com/BerendWeij/agp_inlever_template/blob/master/producten/AssetPlanning.pdf>
+   [Backlog]: https://trello.com/b/coCZyI7o/mythe 
+   [Logboek]: https://github.com/Sanne-Kaat/agp_inlever_template/blob/master/producten/logboek.pdf
+   [GameDesignDoc]: https://github.com/Sanne-Kaat/agp_inlever_template/blob/master/producten/GDD.pdf
+   [RetrospectiveVerslagen]: https://github.com/Sanne-Kaat/agp_inlever_template/blob/master/producten/Notule-Sprintretrospective.pdf
+   [ReviewVerslagen]: https://github.com/Sanne-Kaat/agp_inlever_template/blob/master/producten/Sprint_review_verslagen_Team_10.pdf
+   [Prototype]: https://1drv.ms/u/s!Atgyi1SR2su7hTaYyh9KkkmOhb9v?e=68MHM2 
+   [Folder op teams]: https://teams.microsoft.com/_#/school/files/Team%2010?threadId=19%3Abcce17c58d9d498290296083f87d4c59%40thread.tacv2&ctx=channel&context=Team%252010&rootfolder=%252Fteams%252FMytheGDGA2021-Team10%252FGedeelde%2520documenten%252FTeam%252010 
+   [AssetPlanning]: https://github.com/Sanne-Kaat/agp_inlever_template/blob/master/producten/AssetPlanning.pdf 
    
