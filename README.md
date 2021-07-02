@@ -38,7 +38,7 @@ Onze game is een rougelike waarin je zo snel mogelijk met een tijdlimiet de top 
 
    [Backlog]: https://trello.com/b/coCZyI7o/mythe 
    [Logboek]: https://github.com/Sanne-Kaat/agp_inlever_template/blob/master/producten/logboek.pdf
-   [GameDesignDoc]: https://github.com/Sanne-Kaat/agp_inlever_template/blob/master/producten/GDD.pdf
+   [GameDesignDoc]: https://github.com/Sanne-Kaat/agp_inlever_template/blob/master/producten/GDD%20MYTHE.pdf 
    [RetrospectiveVerslagen]: https://github.com/Sanne-Kaat/agp_inlever_template/blob/master/producten/Notule-Sprintretrospective.pdf
    [ReviewVerslagen]: https://github.com/Sanne-Kaat/agp_inlever_template/blob/master/producten/Sprint_review_verslagen_Team_10.pdf
    [Prototype]: https://1drv.ms/u/s!Atgyi1SR2su7hTaYyh9KkkmOhb9v?e=68MHM2 
